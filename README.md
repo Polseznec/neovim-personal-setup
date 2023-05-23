@@ -1,14 +1,14 @@
-# neovim-personal-setup
+# Neovim-personal-setup
 
 My personal Neovim setup (v: 1.0.0)
 
-First, You need to install neovim (> v0.5).
+First, You need to install neovim (>= v0.5).
 
 ```
 brew install neovim
 ```
 
-### pakages needed
+### Pakages needed
 
 Install ripgrep:
 
@@ -16,7 +16,7 @@ Install ripgrep:
 brew install ripgrep
 ```
 
-### before launch
+### Before launch
 
 Add this repos in your `.config` folder and rename the folder `rm <old folder name> <nvim>`.
 
