@@ -2,7 +2,7 @@
 
 My personal Neovim setup (v: 1.0.0)
 
-First, You need to install neovim (>= v0.5).
+First, You need to install neovim (>= v0.8).
 
 ```
 brew install neovim
